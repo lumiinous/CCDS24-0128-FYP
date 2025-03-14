@@ -9,7 +9,3 @@ This project requires the **OpenFHE-Python** library to run. Ensure you have the
 ### **1. Install OpenFHE-Python**  
 Follow the official OpenFHE-Python installation guide:  
 🔗 [OpenFHE-Python Repository](https://github.com/openfheorg/openfhe-python)
-
-To install OpenFHE-Python using `pip`, run:
-```bash
-pip install openfhe
